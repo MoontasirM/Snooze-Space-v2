@@ -1,0 +1,9 @@
+GET http://localhost:5000/bookings
+
+###
+
+GET http://localhost:5000/studyrooms
+
+###
+
+GET http://localhost:5000/payments
