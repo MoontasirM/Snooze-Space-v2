@@ -100,12 +100,15 @@ npm install -g firebase-tools
 -npm run lint - Run ESLint to check code quality
 ```
 ## Server Scripts (Snooze_Space-Server)
+```
 -npm start - Start the production server
-
+```
+```
 -npm run dev - Start development server with auto-restart (nodemon)
-
+```
+```
 -npm test - Run tests (currently not configured)
-
+```
 ### Development
 To contribute to this project, please follow these guidelines:
 
