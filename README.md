@@ -1,10 +1,10 @@
 # Snooze Space v2
 
-A full-stack web application for managing and scheduling your sleep patterns and rest activities. Snooze Space helps users track their sleep habits, set reminders, and maintain a healthy sleep schedule.
+A hostel-style rental service where students can book rooms for naps, overnight stays, and study sessions. Users can also order food, receive wake-up calls, and manage bookings through the website. We are mainly encouraged by the idea that most students of BRACU have a long gap in between their classes. Many of them need a resting place for that time being. SnoozeSpace is our small solution to that problem. The name SnoozeSpace combines Snooze, which represents short naps and relaxation, and Space, which signifies a designated area. Together, it conveys the idea of a restful and comfortable environment tailored for students who need a break between classes.
 
 ## Overview
 
-Snooze Space v2 is a modern, full-stack application built with React and Node.js that provides users with tools to monitor, manage, and improve their sleep health. The application features a responsive client-side interface and a robust backend API for data management.
+Snooze Space v2 is a modern, full-stack application built with React and Node.js that aims to develop a comprehensive web application that addresses the accommodation needs of BRAC University students. By offering flexible booking options, additional services, and secure user management, the project seeks to enhance student well-being and productivity. The proposed solution is feasible within the given timeframe and resources, and it promises significant benefits for students, the university, and the development team.
 
 ## **Features**
 
